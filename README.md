@@ -88,7 +88,31 @@ http://localhost:8080/users
 
 ## 📸 Screenshots (Optional)
 
-*Add your UI screenshots here*
+
+### Login Page
+![LoginPage](https://github.com/user-attachments/assets/27e5a521-81a5-4d14-a87a-bd650ce4edfe)
+
+### Admin DashBoard
+![AdminDashBoard](https://github.com/user-attachments/assets/0c047af1-f70c-4d18-8b55-387ca64136f6)
+
+### My DashBoard
+![MyDashBoard](https://github.com/user-attachments/assets/231c4050-18ac-465e-9e1d-ac09a27efa1c)
+
+### TaskManagement DashBoard
+![TaskDashBoard](https://github.com/user-attachments/assets/bb56046e-8201-43f8-afa5-cbeb76b9c5a5)
+
+### UserManagement DashBoard
+![UserDashboard](https://github.com/user-attachments/assets/fc949dfe-e563-449d-8783-fc0c5f72dc2f)
+
+### Profile 
+![Profile](https://github.com/user-attachments/assets/73307fb6-6f0b-4d11-8c20-47274553eb40)
+
+
+
+
+
+
+
 
 ---
 
